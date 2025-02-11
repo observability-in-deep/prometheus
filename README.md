@@ -33,6 +33,7 @@ make install
 - Para que os exemplos funcionem não se esqueça de mudar o seu arquivo de hosts colocando a seguinte linha:
 
 ```sh
+ls /etc/hosts
 127.0.0.1 obsevabilityindeep.local prometheus-server.local grafana.local
 
 ```
